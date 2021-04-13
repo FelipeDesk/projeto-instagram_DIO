@@ -1,3 +1,0 @@
-projeto.html
-
-style.css
