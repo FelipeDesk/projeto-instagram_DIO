@@ -1,1 +1,3 @@
-# projeto-pag-inicial_instagram
+# Página inicial do Instagrma 🤳
+
+Recriei a página inicial do Instagram, com buttons e imagens.
